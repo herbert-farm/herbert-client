@@ -1,0 +1,23 @@
+{
+  "name": "herbert-client",
+  "description": "",
+  "main": "",
+  "authors": [
+    "joshpaulchan <joshpaulchan@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/assets/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "bootstrap4#^3.3.7"
+  }
+}
