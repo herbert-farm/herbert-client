@@ -5,9 +5,13 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 
+// shared
+import { HeaderBarComponent } from './headerBar/headerBar.component';
+
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    HeaderBarComponent
   ],
   imports: [
     BrowserModule,
